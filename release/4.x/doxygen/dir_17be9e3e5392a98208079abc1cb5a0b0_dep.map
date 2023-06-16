@@ -1,0 +1,16 @@
+<map id="src/apps/js_generic" name="src/apps/js_generic">
+<area shape="rect" id="node1" href="dir_17be9e3e5392a98208079abc1cb5a0b0.html" title="js_generic" alt="" coords="161,52,249,77"/>
+<area shape="rect" id="node2" href="dir_18ae7af74d885898b85cbb543ae51b63.html" title="node" alt="" coords="5,125,60,151"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000027_000033.html" title="1" alt="" coords="76,119,85,134"/>
+<area shape="rect" id="node3" href="dir_3dcea8250b5ce8d5bc595fbbad3e8f21.html" title="js" alt="" coords="84,125,123,151"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000027_000026.html" title="1" alt="" coords="135,114,144,129"/>
+<area shape="rect" id="node4" href="dir_4c8befd6991d7a2e9d66c427274b8c22.html" title="kv" alt="" coords="147,125,185,151"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000027_000029.html" title="1" alt="" coords="184,106,193,121"/>
+<area shape="rect" id="node5" href="dir_4f691f982165d1317925cee58b4b4f56.html" title="service" alt="" coords="210,125,279,151"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000027_000042.html" title="1" alt="" coords="232,98,241,113"/>
+<area shape="rect" id="node6" href="dir_5427940bb9029915fc0c11c1284afde6.html" title="enclave" alt="" coords="304,125,377,151"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000027_000015.html" title="1" alt="" coords="302,102,311,117"/>
+<area shape="rect" id="node7" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="402,125,471,151"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000027_000023.html" title="10" alt="" coords="378,105,396,120"/>
+<area shape="rect" id="clust1" href="dir_53adf0b982dc8545998aae3f283a5a58.html" title="apps" alt="" coords="150,16,259,88"/>
+</map>

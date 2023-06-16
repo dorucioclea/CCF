@@ -1,0 +1,10 @@
+<map id="ccf::UserCOSESign1AuthnIdentity" name="ccf::UserCOSESign1AuthnIdentity">
+<area shape="rect" id="node1" title=" " alt="" coords="804,80,1041,105"/>
+<area shape="rect" id="node2" href="$structccf_1_1COSESign1AuthnIdentity.html" title=" " alt="" coords="417,5,623,31"/>
+<area shape="rect" id="node3" href="$structccf_1_1AuthnIdentity.html" title=" " alt="" coords="193,5,329,31"/>
+<area shape="rect" id="node4" href="$structccf_1_1EntityId.html" title=" " alt="" coords="403,55,637,80"/>
+<area shape="rect" id="node5" href="$classcrypto_1_1Pem.html" title=" " alt="" coords="470,104,570,129"/>
+<area shape="rect" id="node6" href="$structccf_1_1ProtectedHeader.html" title=" " alt="" coords="441,153,599,179"/>
+<area shape="rect" id="node7" title=" " alt="" coords="218,153,305,179"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,146,144,186"/>
+</map>

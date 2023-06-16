@@ -1,0 +1,20 @@
+<map id="src/node/did.h" name="src/node/did.h">
+<area shape="rect" id="node1" title=" " alt="" coords="245,5,358,31"/>
+<area shape="rect" id="node2" href="$src_2node_2uvm__endorsements_8h.html" title=" " alt="" coords="190,79,413,104"/>
+<area shape="rect" id="node3" href="$node__state_8h.html" title=" " alt="" coords="248,577,413,603"/>
+<area shape="rect" id="node7" href="$quote_8cpp.html" title=" " alt="" coords="470,159,615,185"/>
+<area shape="rect" id="node8" href="$node__call__types_8h.html" title=" " alt="" coords="279,152,446,192"/>
+<area shape="rect" id="node16" href="$internal__tables__access_8h.html" title=" " alt="" coords="168,313,315,353"/>
+<area shape="rect" id="node4" href="$src_2enclave_2enclave_8h.html" title=" " alt="" coords="445,724,608,749"/>
+<area shape="rect" id="node6" href="$gov__effects_8h.html" title=" " alt="" coords="364,651,556,676"/>
+<area shape="rect" id="node5" href="$enclave_2main_8cpp.html" title=" " alt="" coords="447,797,607,823"/>
+<area shape="rect" id="node9" href="$call__types_8h.html" title=" " alt="" coords="718,240,901,265"/>
+<area shape="rect" id="node10" href="$common__endpoint__registry_8cpp.html" title=" " alt="" coords="749,401,920,441"/>
+<area shape="rect" id="node11" href="$wrap_8cpp.html" title=" " alt="" coords="750,321,869,346"/>
+<area shape="rect" id="node12" href="$member__frontend_8h.html" title=" " alt="" coords="689,489,849,529"/>
+<area shape="rect" id="node13" href="$serialization_8h.html" title=" " alt="" coords="528,321,725,346"/>
+<area shape="rect" id="node14" href="$node__frontend_8h.html" title=" " alt="" coords="363,409,573,434"/>
+<area shape="rect" id="node15" href="$jwt__key__auto__refresh_8h.html" title=" " alt="" coords="379,489,546,529"/>
+<area shape="rect" id="node17" href="$secret__broadcast_8h.html" title=" " alt="" coords="94,497,298,522"/>
+<area shape="rect" id="node18" href="$share__manager_8h.html" title=" " alt="" coords="145,409,338,434"/>
+</map>

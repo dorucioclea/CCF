@@ -1,0 +1,7 @@
+<map id="ccf::endpoints::CommandEndpointContext" name="ccf::endpoints::CommandEndpointContext">
+<area shape="rect" id="node1" title=" " alt="" coords="48,196,292,236"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,93,159,133"/>
+<area shape="rect" id="node3" href="$classccf_1_1RpcContext.html" title="Describes the currently executing RPC." alt="" coords="21,5,143,31"/>
+<area shape="rect" id="node4" title=" " alt="" coords="183,93,336,133"/>
+<area shape="rect" id="node5" href="$structccf_1_1AuthnIdentity.html" title=" " alt="" coords="191,5,327,31"/>
+</map>

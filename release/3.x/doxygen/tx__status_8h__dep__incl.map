@@ -1,0 +1,43 @@
+<map id="include/ccf/tx_status.h" name="include/ccf/tx_status.h">
+<area shape="rect" id="node1" title=" " alt="" coords="647,5,815,31"/>
+<area shape="rect" id="node2" href="$base__endpoint__registry_8h.html" title=" " alt="" coords="2548,79,2739,119"/>
+<area shape="rect" id="node33" href="$historical__queries__adapter_8h.html" title=" " alt="" coords="664,167,820,207"/>
+<area shape="rect" id="node37" href="$state_8h.html" title=" " alt="" coords="132,79,299,119"/>
+<area shape="rect" id="node38" href="$raft_8h.html" title=" " alt="" coords="5,174,177,199"/>
+<area shape="rect" id="node40" href="$call__types_8h.html" title=" " alt="" coords="769,86,952,111"/>
+<area shape="rect" id="node3" href="$common__endpoint__registry_8h.html" title=" " alt="" coords="1281,167,1435,207"/>
+<area shape="rect" id="node6" href="$nobuiltins_8cpp.html" title=" " alt="" coords="2308,343,2488,383"/>
+<area shape="rect" id="node26" href="$base__endpoint__registry_8cpp.html" title=" " alt="" coords="2821,167,2989,207"/>
+<area shape="rect" id="node27" href="$wrap_8h.html" title=" " alt="" coords="2693,174,2797,199"/>
+<area shape="rect" id="node4" href="$app__interface_8h.html" title=" " alt="" coords="1710,262,1907,287"/>
+<area shape="rect" id="node18" href="$common__endpoint__registry_8cpp.html" title=" " alt="" coords="775,255,946,295"/>
+<area shape="rect" id="node19" href="$acme__challenge__frontend_8h.html" title=" " alt="" coords="1154,255,1341,295"/>
+<area shape="rect" id="node23" href="$member__frontend_8h.html" title=" " alt="" coords="970,255,1130,295"/>
+<area shape="rect" id="node24" href="$node__frontend_8h.html" title=" " alt="" coords="1365,262,1575,287"/>
+<area shape="rect" id="node5" href="$logging_8cpp.html" title=" " alt="" coords="1023,343,1187,383"/>
+<area shape="rect" id="node7" href="$executor__auth__policy_8h.html" title=" " alt="" coords="1414,343,1611,383"/>
+<area shape="rect" id="node8" href="$external__executor_8cpp.html" title=" " alt="" coords="1389,431,1586,471"/>
+<area shape="rect" id="node9" href="$js__generic_8cpp.html" title=" " alt="" coords="1849,431,1995,471"/>
+<area shape="rect" id="node10" href="$js__generic__base_8cpp.html" title=" " alt="" coords="2513,343,2670,383"/>
+<area shape="rect" id="node11" href="$js__generic__base_8h.html" title=" " alt="" coords="1905,343,2051,383"/>
+<area shape="rect" id="node12" href="$tpcc_8cpp.html" title=" " alt="" coords="1636,350,1829,375"/>
+<area shape="rect" id="node13" href="$src_2enclave_2enclave_8h.html" title=" " alt="" coords="953,592,1115,617"/>
+<area shape="rect" id="node15" href="$no__plugins_8cpp.html" title=" " alt="" coords="2126,350,2283,375"/>
+<area shape="rect" id="node17" href="$user__frontend_8h.html" title=" " alt="" coords="1313,519,1520,544"/>
+<area shape="rect" id="node14" href="$enclave_2main_8cpp.html" title=" " alt="" coords="954,665,1114,691"/>
+<area shape="rect" id="node16" href="$wrap_8cpp.html" title=" " alt="" coords="2813,438,2932,463"/>
+<area shape="rect" id="node20" href="$ccf__acme__client_8h.html" title=" " alt="" coords="508,350,707,375"/>
+<area shape="rect" id="node21" href="$node__state_8h.html" title=" " alt="" coords="477,438,642,463"/>
+<area shape="rect" id="node22" href="$gov__effects_8h.html" title=" " alt="" coords="463,519,655,544"/>
+<area shape="rect" id="node25" href="$jwt__key__auto__refresh_8h.html" title=" " alt="" coords="832,343,999,383"/>
+<area shape="rect" id="node28" href="$consensus_8cpp.html" title=" " alt="" coords="2795,350,2950,375"/>
+<area shape="rect" id="node29" href="$conv_8cpp.html" title=" " alt="" coords="2833,262,2950,287"/>
+<area shape="rect" id="node30" href="$crypto_8cpp.html" title=" " alt="" coords="2974,262,3102,287"/>
+<area shape="rect" id="node31" href="$historical_8cpp.html" title=" " alt="" coords="3126,262,3273,287"/>
+<area shape="rect" id="node32" href="$openenclave_8cpp.html" title=" " alt="" coords="3297,262,3467,287"/>
+<area shape="rect" id="node34" href="$historical__queries__adapter_8cpp.html" title=" " alt="" coords="541,255,701,295"/>
+<area shape="rect" id="node35" href="$snapshot__serdes_8h.html" title=" " alt="" coords="314,262,517,287"/>
+<area shape="rect" id="node36" href="$snapshotter_8h.html" title=" " alt="" coords="315,350,484,375"/>
+<area shape="rect" id="node39" href="$resharing_8h.html" title=" " alt="" coords="85,262,239,287"/>
+<area shape="rect" id="node41" href="$serialization_8h.html" title=" " alt="" coords="442,174,639,199"/>
+</map>

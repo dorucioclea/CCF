@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structkv_1_1AbstractChangeContainer.html" title=" " alt="" coords="319,5,529,31"/>
+<area shape="rect" id="node2" href="$classkv_1_1CommittableTx.html" title=" " alt="" coords="577,31,724,56"/>
+<area shape="rect" id="node3" href="$classkv_1_1ReservedTx.html" title=" " alt="" coords="772,31,895,56"/>
+<area shape="rect" id="node4" href="$classkv_1_1BaseTx.html" title=" " alt="" coords="5,80,99,105"/>
+<area shape="rect" id="node5" href="$classkv_1_1ReadOnlyTx.html" title=" " alt="" coords="147,55,271,80"/>
+<area shape="rect" id="node7" href="$classkv_1_1TxDiff.html" title=" " alt="" coords="167,104,251,129"/>
+<area shape="rect" id="node6" href="$classkv_1_1Tx.html" title=" " alt="" coords="393,55,455,80"/>
+</map>

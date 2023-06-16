@@ -1,0 +1,15 @@
+<map id="src/consensus/ledger_enclave_types.h" name="src/consensus/ledger_enclave_types.h">
+<area shape="rect" id="node1" title=" " alt="" coords="367,5,525,45"/>
+<area shape="rect" id="node2" href="$ledger__enclave_8h.html" title=" " alt="" coords="5,93,164,133"/>
+<area shape="rect" id="node7" href="$ledger_8h.html" title=" " alt="" coords="381,101,511,126"/>
+<area shape="rect" id="node10" href="$snapshots_8h.html" title=" " alt="" coords="471,189,626,214"/>
+<area shape="rect" id="node11" href="$historical__queries_8h.html" title=" " alt="" coords="650,181,791,221"/>
+<area shape="rect" id="node13" href="$snapshotter_8h.html" title=" " alt="" coords="188,101,357,126"/>
+<area shape="rect" id="node3" href="$node__state_8h.html" title=" " alt="" coords="50,189,215,214"/>
+<area shape="rect" id="node4" href="$src_2enclave_2enclave_8h.html" title=" " alt="" coords="361,357,523,383"/>
+<area shape="rect" id="node6" href="$gov__effects_8h.html" title=" " alt="" coords="198,277,390,302"/>
+<area shape="rect" id="node5" href="$enclave_2main_8cpp.html" title=" " alt="" coords="362,431,522,456"/>
+<area shape="rect" id="node8" href="$node__connections_8h.html" title=" " alt="" coords="240,189,447,214"/>
+<area shape="rect" id="node9" href="$host_2main_8cpp.html" title=" " alt="" coords="419,277,556,302"/>
+<area shape="rect" id="node12" href="$historical__transaction__fetcher_8h.html" title=" " alt="" coords="636,269,803,309"/>
+</map>

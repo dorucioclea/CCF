@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structcrypto_1_1JsonWebKey.html" title=" " alt="" coords="5,55,156,80"/>
+<area shape="rect" id="node2" href="$structcrypto_1_1JsonWebKeyECPublic.html" title=" " alt="" coords="217,5,424,31"/>
+<area shape="rect" id="node4" href="$structcrypto_1_1JsonWebKeyEdDSAPublic.html" title=" " alt="" coords="204,55,437,80"/>
+<area shape="rect" id="node6" href="$structcrypto_1_1JsonWebKeyRSAPublic.html" title=" " alt="" coords="213,104,429,129"/>
+<area shape="rect" id="node3" href="$structcrypto_1_1JsonWebKeyECPrivate.html" title=" " alt="" coords="499,5,712,31"/>
+<area shape="rect" id="node5" href="$structcrypto_1_1JsonWebKeyEdDSAPrivate.html" title=" " alt="" coords="485,55,725,80"/>
+<area shape="rect" id="node7" href="$structcrypto_1_1JsonWebKeyRSAPrivate.html" title=" " alt="" coords="494,104,717,129"/>
+</map>

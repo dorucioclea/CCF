@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classccf_1_1AuthnPolicy.html" title=" " alt="" coords="5,219,131,244"/>
+<area shape="rect" id="node2" href="$classccf_1_1EmptyAuthnPolicy.html" title=" " alt="" coords="209,5,375,31"/>
+<area shape="rect" id="node3" href="$classccf_1_1JwtAuthnPolicy.html" title=" " alt="" coords="219,55,365,80"/>
+<area shape="rect" id="node4" href="$classccf_1_1MemberCOSESign1AuthnPolicy.html" title=" " alt="" coords="187,105,397,145"/>
+<area shape="rect" id="node5" href="$classccf_1_1MemberCertAuthnPolicy.html" title=" " alt="" coords="189,169,395,195"/>
+<area shape="rect" id="node6" href="$classccf_1_1NodeCertAuthnPolicy.html" title=" " alt="" coords="199,219,385,244"/>
+<area shape="rect" id="node7" href="$classccf_1_1UserCOSESign1AuthnPolicy.html" title=" " alt="" coords="179,268,405,293"/>
+<area shape="rect" id="node8" href="$classccf_1_1UserCertAuthnPolicy.html" title=" " alt="" coords="201,317,383,343"/>
+<area shape="rect" id="node9" href="$classexternalexecutor_1_1ExecutorAuthPolicy.html" title=" " alt="" coords="194,367,390,407"/>
+<area shape="rect" id="node10" href="$classloggingapp_1_1CustomAuthPolicy.html" title=" " alt="" coords="181,432,403,457"/>
+</map>

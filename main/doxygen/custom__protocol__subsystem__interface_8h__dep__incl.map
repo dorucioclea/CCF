@@ -1,0 +1,11 @@
+<map id="include/ccf/research/custom_protocol_subsystem_interface.h" name="include/ccf/research/custom_protocol_subsystem_interface.h">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,217,60"/>
+<area shape="rect" id="node2" href="$custom__protocol__subsystem_8h.html" title=" " alt="" coords="25,108,197,148"/>
+<area shape="rect" id="node3" href="$src_2enclave_2enclave_8h.html" title=" " alt="" coords="13,504,175,529"/>
+<area shape="rect" id="node5" href="$rpc__sessions_8h.html" title=" " alt="" coords="107,196,302,221"/>
+<area shape="rect" id="node4" href="$enclave_2main_8cpp.html" title=" " alt="" coords="14,577,174,603"/>
+<area shape="rect" id="node6" href="$ccf__acme__client_8h.html" title=" " alt="" coords="105,277,304,302"/>
+<area shape="rect" id="node7" href="$node__state_8h.html" title=" " alt="" coords="170,357,335,383"/>
+<area shape="rect" id="node9" href="$quote__endorsements__client_8h.html" title=" " alt="" coords="378,269,597,309"/>
+<area shape="rect" id="node8" href="$gov__effects_8h.html" title=" " alt="" coords="157,431,349,456"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="http2::StreamData" name="http2::StreamData">
+<area shape="rect" id="node1" title=" " alt="" coords="953,103,1096,129"/>
+<area shape="rect" id="node2" href="$structhttp2_1_1StreamData_1_1Incoming.html" title=" " alt="" coords="689,64,840,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="393,15,584,55"/>
+<area shape="rect" id="node4" title=" " alt="" coords="193,22,280,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,15,144,55"/>
+<area shape="rect" id="node6" title=" " alt="" coords="405,79,572,105"/>
+<area shape="rect" id="node7" href="$structhttp2_1_1StreamData_1_1Outgoing.html" title=" " alt="" coords="689,128,840,168"/>
+<area shape="rect" id="node8" href="$classhttp2_1_1DataSource.html" title=" " alt="" coords="419,135,558,161"/>
+</map>

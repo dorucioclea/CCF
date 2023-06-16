@@ -1,0 +1,13 @@
+<map id="ccf::ConsensusConfigDetails" name="ccf::ConsensusConfigDetails">
+<area shape="rect" id="node1" title=" " alt="" coords="1871,94,2076,119"/>
+<area shape="rect" id="node2" href="$structkv_1_1ConsensusDetails.html" title=" " alt="" coords="1612,94,1773,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1283,65,1513,90"/>
+<area shape="rect" id="node4" href="$structkv_1_1Configuration.html" title=" " alt="" coords="1037,62,1169,87"/>
+<area shape="rect" id="node5" title=" " alt="" coords="723,58,945,83"/>
+<area shape="rect" id="node6" href="$structccf_1_1EntityId.html" title=" " alt="" coords="397,94,609,119"/>
+<area shape="rect" id="node10" title=" " alt="" coords="737,107,931,162"/>
+<area shape="rect" id="node7" href="$structkv_1_1Configuration_1_1NodeInfo.html" title=" " alt="" coords="433,15,573,55"/>
+<area shape="rect" id="node8" title=" " alt="" coords="193,22,280,47"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,15,144,55"/>
+<area shape="rect" id="node11" href="$structkv_1_1ConsensusDetails_1_1Ack.html" title=" " alt="" coords="407,158,600,183"/>
+</map>

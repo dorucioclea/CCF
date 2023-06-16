@@ -1,0 +1,47 @@
+<map id="include/ccf/ccf_deprecated.h" name="include/ccf/ccf_deprecated.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1778,5,1985,31"/>
+<area shape="rect" id="node2" href="$app__interface_8h.html" title=" " alt="" coords="631,409,828,434"/>
+<area shape="rect" id="node16" href="$historical__queries__adapter_8h.html" title=" " alt="" coords="1804,401,1960,441"/>
+<area shape="rect" id="node23" href="$quote_8h.html" title=" " alt="" coords="2834,79,3015,104"/>
+<area shape="rect" id="node3" href="$logging_8cpp.html" title=" " alt="" coords="1196,489,1360,529"/>
+<area shape="rect" id="node4" href="$nobuiltins_8cpp.html" title=" " alt="" coords="217,489,397,529"/>
+<area shape="rect" id="node5" href="$executor__auth__policy_8h.html" title=" " alt="" coords="742,489,939,529"/>
+<area shape="rect" id="node6" href="$external__executor_8cpp.html" title=" " alt="" coords="742,577,939,617"/>
+<area shape="rect" id="node7" href="$js__generic_8cpp.html" title=" " alt="" coords="204,577,351,617"/>
+<area shape="rect" id="node8" href="$js__generic__base_8cpp.html" title=" " alt="" coords="1615,489,1772,529"/>
+<area shape="rect" id="node9" href="$js__generic__base_8h.html" title=" " alt="" coords="46,489,192,529"/>
+<area shape="rect" id="node10" href="$tpcc_8cpp.html" title=" " alt="" coords="473,497,666,522"/>
+<area shape="rect" id="node11" href="$src_2enclave_2enclave_8h.html" title=" " alt="" coords="2707,841,2870,867"/>
+<area shape="rect" id="node13" href="$no__plugins_8cpp.html" title=" " alt="" coords="1014,497,1171,522"/>
+<area shape="rect" id="node15" href="$user__frontend_8h.html" title=" " alt="" coords="1384,497,1590,522"/>
+<area shape="rect" id="node12" href="$enclave_2main_8cpp.html" title=" " alt="" coords="2708,915,2868,940"/>
+<area shape="rect" id="node14" href="$wrap_8cpp.html" title=" " alt="" coords="3289,585,3408,610"/>
+<area shape="rect" id="node17" href="$common__endpoint__registry_8cpp.html" title=" " alt="" coords="1796,489,1967,529"/>
+<area shape="rect" id="node18" href="$historical__queries__adapter_8cpp.html" title=" " alt="" coords="2268,489,2428,529"/>
+<area shape="rect" id="node19" href="$snapshot__serdes_8h.html" title=" " alt="" coords="2042,497,2244,522"/>
+<area shape="rect" id="node20" href="$snapshotter_8h.html" title=" " alt="" coords="2158,585,2328,610"/>
+<area shape="rect" id="node21" href="$node__state_8h.html" title=" " alt="" coords="2570,673,2735,698"/>
+<area shape="rect" id="node22" href="$gov__effects_8h.html" title=" " alt="" coords="2508,761,2700,786"/>
+<area shape="rect" id="node24" href="$executor__code__id_8h.html" title=" " alt="" coords="878,401,1075,441"/>
+<area shape="rect" id="node25" href="$quote_8cpp.html" title=" " alt="" coords="2908,159,3053,185"/>
+<area shape="rect" id="node26" href="$member__frontend_8h.html" title=" " alt="" coords="4039,489,4199,529"/>
+<area shape="rect" id="node27" href="$node__frontend_8h.html" title=" " alt="" coords="2764,497,2975,522"/>
+<area shape="rect" id="node29" href="$node__operation__interface_8h.html" title=" " alt="" coords="4090,152,4297,192"/>
+<area shape="rect" id="node28" href="$jwt__key__auto__refresh_8h.html" title=" " alt="" coords="2826,577,2993,617"/>
+<area shape="rect" id="node30" href="$node__interface_8h.html" title=" " alt="" coords="3705,240,3920,265"/>
+<area shape="rect" id="node45" href="$node__operation_8h.html" title=" " alt="" coords="4223,321,4442,346"/>
+<area shape="rect" id="node31" href="$wrap_8h.html" title=" " alt="" coords="3446,409,3550,434"/>
+<area shape="rect" id="node37" href="$historical__queries_8h.html" title=" " alt="" coords="4159,665,4300,705"/>
+<area shape="rect" id="node39" href="$node__configuration__subsystem_8h.html" title=" " alt="" coords="2944,313,3150,353"/>
+<area shape="rect" id="node43" href="$acme__subsystem_8h.html" title=" " alt="" coords="2044,673,2274,698"/>
+<area shape="rect" id="node44" href="$network__identity__subsystem_8h.html" title=" " alt="" coords="2381,401,2550,441"/>
+<area shape="rect" id="node32" href="$consensus_8cpp.html" title=" " alt="" coords="3271,497,3426,522"/>
+<area shape="rect" id="node33" href="$conv_8cpp.html" title=" " alt="" coords="3644,497,3762,522"/>
+<area shape="rect" id="node34" href="$crypto_8cpp.html" title=" " alt="" coords="3786,497,3914,522"/>
+<area shape="rect" id="node35" href="$historical_8cpp.html" title=" " alt="" coords="3050,497,3196,522"/>
+<area shape="rect" id="node36" href="$openenclave_8cpp.html" title=" " alt="" coords="3450,497,3620,522"/>
+<area shape="rect" id="node38" href="$historical__transaction__fetcher_8h.html" title=" " alt="" coords="4082,753,4249,793"/>
+<area shape="rect" id="node40" href="$frontend_8h.html" title=" " alt="" coords="2617,409,2789,434"/>
+<area shape="rect" id="node41" href="$acme__challenge__frontend_8h.html" title=" " alt="" coords="2554,489,2740,529"/>
+<area shape="rect" id="node42" href="$ccf__acme__client_8h.html" title=" " alt="" coords="2553,585,2752,610"/>
+</map>

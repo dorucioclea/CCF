@@ -1,0 +1,12 @@
+<map id="src/service/genesis_gen.h" name="src/service/genesis_gen.h">
+<area shape="rect" id="node1" title=" " alt="" coords="387,5,533,45"/>
+<area shape="rect" id="node2" href="$node__state_8h.html" title=" " alt="" coords="259,255,424,280"/>
+<area shape="rect" id="node6" href="$member__frontend_8h.html" title=" " alt="" coords="548,167,708,207"/>
+<area shape="rect" id="node7" href="$node__frontend_8h.html" title=" " alt="" coords="5,93,216,119"/>
+<area shape="rect" id="node9" href="$secret__broadcast_8h.html" title=" " alt="" coords="218,174,422,199"/>
+<area shape="rect" id="node10" href="$share__manager_8h.html" title=" " alt="" coords="498,93,691,119"/>
+<area shape="rect" id="node3" href="$src_2enclave_2enclave_8h.html" title=" " alt="" coords="237,401,400,427"/>
+<area shape="rect" id="node5" href="$gov__effects_8h.html" title=" " alt="" coords="289,328,481,353"/>
+<area shape="rect" id="node4" href="$enclave_2main_8cpp.html" title=" " alt="" coords="239,475,399,500"/>
+<area shape="rect" id="node8" href="$jwt__key__auto__refresh_8h.html" title=" " alt="" coords="27,167,194,207"/>
+</map>

@@ -1,0 +1,67 @@
+<map id="include/ccf/node/quote.h" name="include/ccf/node/quote.h">
+<area shape="rect" id="node1" title=" " alt="" coords="279,5,461,31"/>
+<area shape="rect" id="node2" href="$ccf__deprecated_8h.html" title=" " alt="" coords="5,86,161,111"/>
+<area shape="rect" id="node3" href="$quote__info_8h.html" title=" " alt="" coords="237,387,383,412"/>
+<area shape="rect" id="node7" title=" " alt="" coords="512,871,575,896"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2018,643,2093,669"/>
+<area shape="rect" id="node20" href="$measurement_8h.html" title=" " alt="" coords="509,387,681,412"/>
+<area shape="rect" id="node30" href="$host__data_8h.html" title=" " alt="" coords="1126,79,1262,119"/>
+<area shape="rect" id="node52" href="$tx_8h.html" title=" " alt="" coords="2339,86,2409,111"/>
+<area shape="rect" id="node4" href="$json_8h.html" title=" " alt="" coords="917,467,1020,493"/>
+<area shape="rect" id="node5" href="$include_2ccf_2crypto_2base64_8h.html" title=" " alt="" coords="605,643,754,669"/>
+<area shape="rect" id="node8" href="$include_2ccf_2ds_2json__schema_8h.html" title=" " alt="" coords="1135,555,1296,581"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2757,797,2863,823"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2530,643,2605,669"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1374,724,1433,749"/>
+<area shape="rect" id="node9" href="$nonstd_8h.html" title=" " alt="" coords="943,643,1063,669"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2117,643,2263,669"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1189,643,1231,669"/>
+<area shape="rect" id="node10" title=" " alt="" coords="847,724,933,749"/>
+<area shape="rect" id="node11" title=" " alt="" coords="423,724,479,749"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1073,724,1139,749"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1576,724,1673,749"/>
+<area shape="rect" id="node14" title=" " alt="" coords="957,724,1049,749"/>
+<area shape="rect" id="node21" href="$hex_8h.html" title=" " alt="" coords="625,467,725,493"/>
+<area shape="rect" id="node22" title=" " alt="" coords="422,555,475,581"/>
+<area shape="rect" id="node23" href="$blit__serialiser_8h.html" title=" " alt="" coords="761,460,893,500"/>
+<area shape="rect" id="node24" href="$serialised__entry_8h.html" title=" " alt="" coords="779,636,919,676"/>
+<area shape="rect" id="node25" href="$byte__vector_8h.html" title=" " alt="" coords="690,724,823,749"/>
+<area shape="rect" id="node26" href="$siphash_8h.html" title=" " alt="" coords="879,797,1005,823"/>
+<area shape="rect" id="node29" title=" " alt="" coords="656,797,855,823"/>
+<area shape="rect" id="node27" title=" " alt="" coords="907,871,977,896"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2261,871,2327,896"/>
+<area shape="rect" id="node31" href="$sha256__hash_8h.html" title=" " alt="" coords="1101,167,1287,192"/>
+<area shape="rect" id="node32" href="$service_2map_8h.html" title=" " alt="" coords="1305,240,1443,265"/>
+<area shape="rect" id="node33" href="$kv_2map_8h.html" title=" " alt="" coords="1626,313,1733,339"/>
+<area shape="rect" id="node47" href="$set_8h.html" title=" " alt="" coords="1325,387,1423,412"/>
+<area shape="rect" id="node50" href="$value_8h.html" title=" " alt="" coords="1447,387,1560,412"/>
+<area shape="rect" id="node34" href="$get__name_8h.html" title=" " alt="" coords="1216,467,1359,493"/>
+<area shape="rect" id="node35" href="$include_2ccf_2kv_2hooks_8h.html" title=" " alt="" coords="2389,643,2505,669"/>
+<area shape="rect" id="node39" href="$map__diff_8h.html" title=" " alt="" coords="1841,387,1976,412"/>
+<area shape="rect" id="node42" href="$untyped_8h.html" title=" " alt="" coords="2006,555,2137,581"/>
+<area shape="rect" id="node44" href="$map__handle_8h.html" title=" " alt="" coords="1659,387,1817,412"/>
+<area shape="rect" id="node46" href="$json__serialiser_8h.html" title=" " alt="" coords="1571,460,1703,500"/>
+<area shape="rect" id="node36" href="$version_8h.html" title=" " alt="" coords="1777,724,1902,749"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1927,724,2013,749"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2506,724,2583,749"/>
+<area shape="rect" id="node40" href="$untyped__map__diff_8h.html" title=" " alt="" coords="1829,460,1983,500"/>
+<area shape="rect" id="node41" href="$abstract__handle_8h.html" title=" " alt="" coords="1610,643,1791,669"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2898,724,2949,749"/>
+<area shape="rect" id="node45" href="$untyped__map__handle_8h.html" title=" " alt="" coords="1422,548,1577,588"/>
+<area shape="rect" id="node48" href="$set__handle_8h.html" title=" " alt="" coords="1044,467,1192,493"/>
+<area shape="rect" id="node49" href="$unit_8h.html" title=" " alt="" coords="905,555,1008,581"/>
+<area shape="rect" id="node51" href="$value__handle_8h.html" title=" " alt="" coords="1383,467,1547,493"/>
+<area shape="rect" id="node53" href="$ccf__assert_8h.html" title=" " alt="" coords="2826,240,2949,265"/>
+<area shape="rect" id="node63" href="$tx__id_8h.html" title=" " alt="" coords="2433,387,2523,412"/>
+<area shape="rect" id="node65" title=" " alt="" coords="2294,167,2337,192"/>
+<area shape="rect" id="node54" href="$logger_8h.html" title=" " alt="" coords="2825,555,2941,581"/>
+<area shape="rect" id="node55" href="$enum__formatter_8h.html" title=" " alt="" coords="2965,643,3146,669"/>
+<area shape="rect" id="node56" href="$thread__ids_8h.html" title=" " alt="" coords="3271,643,3415,669"/>
+<area shape="rect" id="node61" title=" " alt="" coords="2835,643,2940,669"/>
+<area shape="rect" id="node62" title=" " alt="" coords="2730,643,2810,669"/>
+<area shape="rect" id="node57" title=" " alt="" coords="3111,724,3226,749"/>
+<area shape="rect" id="node58" title=" " alt="" coords="3251,724,3332,749"/>
+<area shape="rect" id="node59" title=" " alt="" coords="3357,724,3415,749"/>
+<area shape="rect" id="node60" title=" " alt="" coords="3023,724,3087,749"/>
+<area shape="rect" id="node64" title=" " alt="" coords="2567,467,2648,493"/>
+</map>

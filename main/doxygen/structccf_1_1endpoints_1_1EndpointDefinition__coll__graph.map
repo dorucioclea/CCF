@@ -1,0 +1,12 @@
+<map id="ccf::endpoints::EndpointDefinition" name="ccf::endpoints::EndpointDefinition">
+<area shape="rect" id="node1" title=" " alt="" coords="1131,127,1308,167"/>
+<area shape="rect" id="node2" href="$structccf_1_1endpoints_1_1EndpointKey.html" title=" " alt="" coords="445,159,646,185"/>
+<area shape="rect" id="node3" title=" " alt="" coords="213,82,299,107"/>
+<area shape="rect" id="node6" href="$structccf_1_1endpoints_1_1EndpointProperties.html" title=" " alt="" coords="806,43,983,83"/>
+<area shape="rect" id="node7" title=" " alt="" coords="452,57,639,82"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,75,144,115"/>
+<area shape="rect" id="node5" href="$classccf_1_1RESTVerb.html" title=" " alt="" coords="201,187,311,213"/>
+<area shape="rect" id="node8" title=" " alt="" coords="805,221,984,261"/>
+<area shape="rect" id="node9" title=" " alt="" coords="432,235,659,261"/>
+<area shape="rect" id="node10" href="$classccf_1_1AuthnPolicy.html" title=" " alt="" coords="193,237,319,262"/>
+</map>

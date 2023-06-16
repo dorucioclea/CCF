@@ -1,0 +1,21 @@
+<map id="src/enclave/interface.h" name="src/enclave/interface.h">
+<area shape="rect" id="node1" title=" " alt="" coords="295,5,465,31"/>
+<area shape="rect" id="node2" href="$src_2enclave_2enclave_8h.html" title=" " alt="" coords="220,651,383,676"/>
+<area shape="rect" id="node4" href="$src_2host_2enclave_8h.html" title=" " alt="" coords="741,86,881,111"/>
+<area shape="rect" id="node8" href="$handle__ring__buffer_8h.html" title=" " alt="" coords="393,167,546,207"/>
+<area shape="rect" id="node9" href="$process__launcher_8h.html" title=" " alt="" coords="473,86,674,111"/>
+<area shape="rect" id="node10" href="$node__call__types_8h.html" title=" " alt="" coords="146,79,313,119"/>
+<area shape="rect" id="node15" href="$serialization_8h.html" title=" " alt="" coords="288,255,485,280"/>
+<area shape="rect" id="node3" href="$enclave_2main_8cpp.html" title=" " alt="" coords="221,724,381,749"/>
+<area shape="rect" id="node5" href="$host_2main_8cpp.html" title=" " alt="" coords="626,255,763,280"/>
+<area shape="rect" id="node6" href="$sig__term_8h.html" title=" " alt="" coords="621,174,768,199"/>
+<area shape="rect" id="node7" href="$ticker_8h.html" title=" " alt="" coords="793,174,917,199"/>
+<area shape="rect" id="node11" href="$call__types_8h.html" title=" " alt="" coords="134,174,317,199"/>
+<area shape="rect" id="node12" href="$common__endpoint__registry_8cpp.html" title=" " alt="" coords="227,328,397,368"/>
+<area shape="rect" id="node13" href="$wrap_8cpp.html" title=" " alt="" coords="43,255,162,280"/>
+<area shape="rect" id="node14" href="$member__frontend_8h.html" title=" " alt="" coords="43,328,203,368"/>
+<area shape="rect" id="node16" href="$node__state_8h.html" title=" " alt="" coords="352,504,517,529"/>
+<area shape="rect" id="node18" href="$node__frontend_8h.html" title=" " alt="" coords="472,335,683,361"/>
+<area shape="rect" id="node17" href="$gov__effects_8h.html" title=" " alt="" coords="205,577,397,603"/>
+<area shape="rect" id="node19" href="$jwt__key__auto__refresh_8h.html" title=" " alt="" coords="473,416,639,456"/>
+</map>

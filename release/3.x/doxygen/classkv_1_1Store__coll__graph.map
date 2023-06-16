@@ -1,0 +1,12 @@
+<map id="kv::Store" name="kv::Store">
+<area shape="rect" id="node1" title=" " alt="" coords="937,106,1016,131"/>
+<area shape="rect" id="node2" href="$classkv_1_1AbstractStore.html" title=" " alt="" coords="723,31,856,57"/>
+<area shape="rect" id="node3" href="$classkv_1_1StoreState.html" title=" " alt="" coords="733,81,846,106"/>
+<area shape="rect" id="node4" title=" " alt="" coords="412,9,504,34"/>
+<area shape="rect" id="node5" title=" " alt="" coords="363,59,553,128"/>
+<area shape="rect" id="node6" title=" " alt="" coords="193,81,280,106"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,73,144,113"/>
+<area shape="rect" id="node8" title=" " alt="" coords="369,152,547,221"/>
+<area shape="rect" id="node9" href="$classkv_1_1ExecutionWrapperStore.html" title=" " alt="" coords="691,130,888,155"/>
+<area shape="rect" id="node10" href="$classkv_1_1ReadOnlyStore.html" title=" " alt="" coords="718,179,861,205"/>
+</map>

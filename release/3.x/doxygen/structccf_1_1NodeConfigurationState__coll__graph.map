@@ -1,0 +1,30 @@
+<map id="ccf::NodeConfigurationState" name="ccf::NodeConfigurationState">
+<area shape="rect" id="node1" title=" " alt="" coords="3100,451,3303,476"/>
+<area shape="rect" id="node2" href="$structStartupConfig.html" title=" " alt="" coords="2745,375,2855,400"/>
+<area shape="rect" id="node3" href="$structCCFConfig.html" title=" " alt="" coords="2445,276,2534,301"/>
+<area shape="rect" id="node4" href="$structconsensus_1_1Configuration.html" title=" " alt="" coords="2029,276,2214,301"/>
+<area shape="rect" id="node5" href="$structds_1_1TimeString.html" title=" " alt="" coords="1628,347,1744,372"/>
+<area shape="rect" id="node15" href="$structCCFConfig_1_1LedgerSignatures.html" title=" " alt="" coords="2016,325,2227,351"/>
+<area shape="rect" id="node16" href="$structCCFConfig_1_1JWT.html" title=" " alt="" coords="2060,375,2183,400"/>
+<area shape="rect" id="node24" href="$structStartupConfig_1_1Join.html" title=" " alt="" coords="2050,424,2193,449"/>
+<area shape="rect" id="node6" href="$structds_1_1UnitString.html" title=" " alt="" coords="1076,347,1187,372"/>
+<area shape="rect" id="node7" title=" " alt="" coords="507,235,593,260"/>
+<area shape="rect" id="node11" href="$structccf_1_1NodeInfoNetwork__v2_1_1NetInterface.html" title="Network interface description." alt="" coords="869,169,1032,209"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1233,110,1427,150"/>
+<area shape="rect" id="node13" href="$structCCFConfig_1_1NodeCertificateInfo.html" title=" " alt="" coords="1219,248,1441,273"/>
+<area shape="rect" id="node14" title=" " alt="" coords="857,296,1044,321"/>
+<area shape="rect" id="node19" href="$structStartupConfig_1_1Start.html" title=" " alt="" coords="876,499,1025,524"/>
+<area shape="rect" id="node8" title=" " alt="" coords="183,227,321,267"/>
+<area shape="rect" id="node9" href="$structccf_1_1NodeInfoNetwork.html" title=" " alt="" coords="2040,123,2203,148"/>
+<area shape="rect" id="node10" href="$structccf_1_1NodeInfoNetwork__v2.html" title="Node network information." alt="" coords="1593,117,1779,143"/>
+<area shape="rect" id="node17" href="$structCCFConfig_1_1Attestation.html" title=" " alt="" coords="2037,175,2206,200"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1587,167,1785,207"/>
+<area shape="rect" id="node20" title=" " alt="" coords="435,472,665,497"/>
+<area shape="rect" id="node21" href="$structccf_1_1NewMember.html" title=" " alt="" coords="187,472,317,497"/>
+<area shape="rect" id="node22" href="$classcrypto_1_1Pem.html" title=" " alt="" coords="5,472,105,497"/>
+<area shape="rect" id="node23" href="$structccf_1_1ServiceConfiguration.html" title=" " alt="" coords="459,521,641,547"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1603,461,1769,487"/>
+<area shape="rect" id="node26" href="$structStartupConfig_1_1Recover.html" title=" " alt="" coords="2404,5,2575,31"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2696,468,2904,523"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2396,563,2583,588"/>
+</map>
